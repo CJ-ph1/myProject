@@ -21,15 +21,6 @@ while true; do
 			echo "Shibal"
 			echo "Folder 1"
 
-
-			echo "Ito Bago"
-
-
-			echo "Second Branch"
-
-			echo "wew"
-			echo "Hala"
-
 		fi
 	done
 done
