@@ -24,6 +24,9 @@ while true; do
 
 			echo "Second Branch"
 
+			echo "wew"
+			echo "Hala"
+
 		fi
 	done
 done
