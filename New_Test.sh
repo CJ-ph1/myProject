@@ -19,6 +19,7 @@ while true; do
 			echo "Halaa nanditoo parin siyaa ohh"
 			echo "Hello Hello"
 			echo "Shibal"
+			echo "Folder 2"
 
 		fi
 	done
